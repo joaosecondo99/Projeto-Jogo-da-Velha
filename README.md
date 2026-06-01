@@ -21,7 +21,7 @@ Um jogo da velha (Tic-Tac-Toe) desenvolvido com HTML, CSS e JavaScript puro, com
 
 Acesse o projeto pelo link abaixo ou clone o repositório e abra o arquivo `index.html` no navegador:
 
-🔗 **[Acessar projeto](#)** ← substitua pelo link do GitHub Pages
+🔗 **[Acessar projeto](https://joaosecondo99.github.io/Projeto-Jogo-da-Velha/)**
 
 ## 📁 Estrutura do projeto
 
@@ -44,4 +44,4 @@ Projeto desenvolvido durante curso de JavaScript, com foco em:
 
 ## 👨‍💻 Autor
 
-Feito por **[Seu Nome]** — [LinkedIn](#) · [GitHub](#)
+Feito por **João Victor Secondo** — [[LinkedIn](https://www.linkedin.com/in/joaosecondo/)] · [[GitHub](https://github.com/joaosecondo99)]
