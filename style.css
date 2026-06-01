@@ -72,10 +72,14 @@ footer {
 }
 
 .cell:hover {
-    background-color: #f0f0f0;
+    background-color: #0015fb;
 }
 
 .winner-cell {
     background-color: #00ff37;
     color: #ffffff;
+}
+
+.winner-cell:hover {
+    background-color: #00ff37;
 }
