@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="script.js" defer ></script>
+    <link rel="stylesheet" href="style.css">
+    <title>TIC TAC TOE</title>
+</head>
+<body>
+    <header>
+        <h1>JOGO DA VELHA</h1>
+    </header>
+
+    <hr>
+    <br>
+
+    <main>
+        <section id="players-section">
+            <label for="player1">Digite o Jogador X: </label>
+            <input type="text" name="player1" id="player1" placeholder="Digite o seu nome">
+
+            <br><br>
+
+            <label for="player2">Digite o Jogador O: </label>
+            <input type="text" name="player2" id="player2" placeholder="Digite o seu nome">
+
+            <br>
+            <br>
+
+            <button id="game-start">Iniciar Jogo</button>
+        </section>
+
+        <section>
+            <br>
+            <h2>Jogador de Vez: <span id="current-player"></span></h2>
+            <br>
+            <div id="board">
+                <button class="cell" type="button" title="cellGame" data-index="0"></button>
+                <button class="cell" type="button" title="cellGame" data-index="1"></button>
+                <button class="cell" type="button" title="cellGame" data-index="2"></button>
+                <button class="cell" type="button" title="cellGame" data-index="3"></button>
+                <button class="cell" type="button" title="cellGame" data-index="4"></button>
+                <button class="cell" type="button" title="cellGame" data-index="5"></button>
+                <button class="cell" type="button" title="cellGame" data-index="6"></button>
+                <button class="cell" type="button" title="cellGame" data-index="7"></button>
+                <button class="cell" type="button" title="cellGame" data-index="8"></button>
+            </div>
+
+            <p>Resultado: <span id="result-text"></span></p>
+
+        </section>
+    </main>
+
+    <footer>
+        <button id="restart-btn">REINICIAR PARTIDA</button>
+    </footer>
+
+</body>
+</html>
