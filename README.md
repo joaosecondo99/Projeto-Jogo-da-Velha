@@ -44,4 +44,4 @@ Projeto desenvolvido durante curso de JavaScript, com foco em:
 
 ## 👨‍💻 Autor
 
-Feito por **[Seu Nome]** — [LinkedIn](#) · [GitHub](#)
+Feito por **João Victor Secondo** — [[LinkedIn](#](https://www.linkedin.com/in/joaosecondo/)) · [[GitHub](#)](https://github.com/joaosecondo99)
